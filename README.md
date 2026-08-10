@@ -26,6 +26,9 @@ You can try the live version of the project here:
 
 ---
 
+## 📖 Articles
+**[Why One AI Model Can't Stop Deepfakes: Architecting a 3-Layer Defense System](https://dev.to/kadircancelik/why-one-ai-model-cant-stop-deepfakes-architecting-a-3-layer-defense-system-119l)**
+
 ## 📂 Repository Structure
 
 ├── backend/  
