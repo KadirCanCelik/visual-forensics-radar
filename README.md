@@ -85,7 +85,7 @@ Ensure you have **Docker** installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/KadirCanCelik/visual-forensics-radar.git](https://github.com/KadirCanCelik/visual-forensics-radar.git)
+   git clone https://github.com/KadirCanCelik/visual-forensics-radar.git
    cd visual-forensics-radar
 2. **Build the Docker Image:**
    ```bash
